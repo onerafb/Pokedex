@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Tilt+Neon&display=swap");
+@import url("Css/mainone.css");
+@import url("Css/card.css");
+@import url("Css/loaderinfinitescroll.css");
+@import url("Css/pokeinfo.css");
+@import url("Css/preloader.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", cursive;
+  /* overflow: hidden; */
+}
+
+.input-div {
+  display: flex;
+}
+h4 {
+  text-align: center;
+}
+body {
+  overflow-x: hidden;
+  background-color: #f6f8fc;
+  /* width: 100vw; */
+}
+
+.rock {
+  background-color: rgb(148, 81, 81);
+  color: rgb(255, 255, 255);
+}
+.ground {
+  background-color: #b99b40;
+}
+.ghost {
+  background-color: #6666bc;
+  color: white;
+}
+.electric {
+  background-color: rgb(255, 244, 142);
+}
+.bug {
+  background-color: #c0f6a7;
+}
+.poison {
+  background-color: #ab549a;
+  color: white;
+}
+.normal {
+  background-color: #bcbcac;
+}
+.fighting {
+  background-color: #bc5442;
+  color: rgb(255, 255, 255);
+}
+.fairy {
+  background-color: rgba(255, 192, 203, 0.863);
+}
+.fire {
+  background-color: #ffae9f;
+}
+.grass {
+  background-color: #a9f6a8;
+}
+.water {
+  background-color: #77b9ed;
+}
+.psychic {
+  background-color: #fe86b8;
+}
+.flying {
+  background-color: rgb(209, 225, 249);
+}
+.hp{
+background-color: #f15871;
+}
+.attack{
+  background-color: #FF994D;
+}
+.defense{
+  background-color: #eecd3d;
+}
+.special-attack{
+background-color:#FB94A8 ;
+}
+.special-defense{
+background-color:rgb(208, 150, 161) ;
+}
+.speed{
+background-color:#c194fb ;
+}
